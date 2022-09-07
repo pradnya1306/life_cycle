@@ -1,11 +1,24 @@
 .App {
   text-align: center;
+  border: 1px solid black;
+  height: 200px;
+  width: 200px;
 }
 
 .App-logo {
   height: 40vmin;
   pointer-events: none;
 }
+
+.btn{
+  height: 50px;
+  width: 200px;
+}
+/* .maindiv{
+  border: 1px solid black;
+  height: 200px;
+  width: 200px;
+} */
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
